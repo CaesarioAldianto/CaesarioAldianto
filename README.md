@@ -15,7 +15,7 @@
  #### 2. [SMAN 7 Bekasi](https://www.sman1kebumen.sch.id) | MIPA | Bekasi `2017-2020`
    - Chief of Oasis
 
-## Work Experience:
+## Work Experience:  ##EXAMPLE##
 #### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline

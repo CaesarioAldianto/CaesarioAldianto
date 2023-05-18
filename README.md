@@ -1,4 +1,4 @@
-# Hi there, I'm Caesario Aldianto - aka [CaesarioAldianto](http://www.youtube.com/channel/UCppTmEY8uqxvFbojyWi3BAQ) 👋
+# Hi there, I'm Caesario Aldianto - [CaesarioAldianto](http://www.youtube.com/channel/UCppTmEY8uqxvFbojyWi3BAQ) 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst

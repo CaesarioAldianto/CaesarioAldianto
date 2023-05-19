@@ -8,7 +8,7 @@
 
 ## Education: ##EXAMPLE##
 
-#### 1. [Universitas Undira](https://www.ugm.ac.id) | Informatics Engineering | Cibubur `2020-2023`
+#### 1. [Universitas Undira](https://www.ugm.ac.id) | Informatics Engineering | Bekasi `2020-2023`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
@@ -16,14 +16,14 @@
    - Chief of Oasis
 
 ## Work Experience:  ##EXAMPLE##
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Jakarta `Dec'2020 - Now`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
    - Responsible to improve and realize project delivery as timeline
    - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Jakarta `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
    - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Research on Maintenance of 20 kV Cubicle in Jakarta
 ---
 
 ### Languages and Tools:

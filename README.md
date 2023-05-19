@@ -1,12 +1,12 @@
 # Hi there, I'm Caesario Aldianto - [CaesarioAldianto](http://www.youtube.com/channel/UCppTmEY8uqxvFbojyWi3BAQ) 👋
-## About me: ##EXAMPLE##
+## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: caesarioaldianto123@gmail.com
 
-## Education: ##EXAMPLE##
+## Education:
 
 #### 1. [Universitas Undira](https://www.ugm.ac.id) | Informatics Engineering | Bekasi `2020-2023`
    - Asistant Laboratorium of Basic Electronics
